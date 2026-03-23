@@ -1,10 +1,3 @@
-
-Got it 👍 — you want **same type README but for YOUR project (Doctor + Appointment system)**.
-
-Here is your **perfect README (ready to copy & submit) ✅**
-
----
-
 # 📚 FastAPI MediCare Clinic Management System
 
 ## 🚀 Project Overview
