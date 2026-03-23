@@ -1,4 +1,4 @@
-#  FastAPI MediCare Clinic Management System
+#  FastAPI Medical Appointment System
 
 ## 🚀 Project Overview
 
