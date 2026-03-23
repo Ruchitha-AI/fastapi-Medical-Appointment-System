@@ -1,4 +1,4 @@
-# 📚 FastAPI MediCare Clinic Management System
+#  FastAPI MediCare Clinic Management System
 
 ## 🚀 Project Overview
 
