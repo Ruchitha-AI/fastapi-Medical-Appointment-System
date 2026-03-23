@@ -2,7 +2,7 @@
 
 ## 🚀 Project Overview
 
-The **MediCare Clinic Management System** is a backend application built using FastAPI that allows managing doctors and appointment workflows efficiently.
+The **Medical Appointment System** is a backend application built using FastAPI that allows managing doctors and appointment workflows efficiently.
 
 This project was developed as part of the FastAPI Internship Program where key backend concepts such as API design, data validation, CRUD operations, workflows, search, sorting, and pagination were implemented.
 The system simulates a real-world clinic backend by allowing users to:
